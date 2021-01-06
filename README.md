@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a software engineer with around ten years of well-rounded experience, I've contributed to any kind of projects in different companies, and also I work as a freelancer web developer from time to time.
+
 <!--
 **eiberham/eiberham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
