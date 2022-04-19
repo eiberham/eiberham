@@ -6,6 +6,8 @@ I'm a software engineer with around ten years of well-rounded experience, I've c
 
 📫 You can reach me at: cedenoabraham[at]gmail[dot]com
 
+:globe_with_meridians: You can read my blog posts [here](https://acedeno.codes/)
+
 <!--
 **eiberham/eiberham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
