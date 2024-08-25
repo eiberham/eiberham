@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer with more than years of well-rounded experience, I've contributed to any kind of projects in different companies, and also I work as a freelancer web developer from time to time.
+I'm a software engineer with more than ten years of well-rounded experience, I've contributed to any kind of projects in different companies, and also I work as a freelancer web developer from time to time.
 
 🔭 Lately I've been working at a it consulting company, collaborating as a fullstack developer on a iot related project, learning a bit more about react.js, node.js, nsq, gcp, git, and javascript. Also, I started to build my own blog using gatsby, graphql and markdown.
 
