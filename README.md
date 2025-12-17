@@ -2,7 +2,7 @@
 
 I'm a software engineer with more than ten years of well-rounded experience, I've contributed to any kind of projects in different companies, and also I work as a freelancer web developer from time to time.
 
-🔭 Lately, I’ve been working primarily with JavaScript/TypeScript and progressively expanding my experience in AI development, building LLM-based workflows and agents using LangChain and LangGraph.
+🔭 Lately, I’ve been working primarily with React/Node/TypeScript + GCP and progressively expanding my experience in AI development, building LLM-based workflows and agents using LangChain and LangGraph.
 
 📫 You can reach me at: cedenoabraham[at]gmail[dot]com
 
