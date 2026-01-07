@@ -8,7 +8,7 @@ I'm a software engineer with more than ten years of well-rounded experience, I'v
 
 :earth_americas: I'm looking to contribute on open source projects as well
 
-:globe_with_meridians: You can read my blog posts [here](https://eiberham.com/)
+:globe_with_meridians: You can read my blog posts [here](https://eiberham.netlify.app/)
 
 <!--
 **eiberham/eiberham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
